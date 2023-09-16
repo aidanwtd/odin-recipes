@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: auto;    
+}
+
+div.container {
+    text-align: center;
+    }
+
+ul.homeUL {
+    display: inline-block;
+    text-align: left;
+    font-weight: bold;
+}
+
+.recipe {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
